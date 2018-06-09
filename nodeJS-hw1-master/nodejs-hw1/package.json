@@ -1,0 +1,27 @@
+{
+  "name": "newProj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.10",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalomov/firstHWnodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalomov/firstHWnodeJS/issues"
+  },
+  "homepage": "https://github.com/shalomov/firstHWnodeJS#readme"
+}
